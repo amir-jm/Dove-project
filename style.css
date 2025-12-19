@@ -1,0 +1,9 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: vazirmatn ,tahoma;
+}
+@font-face {
+    font-family: vazirmatn;
+    src: url(./Vazirmatn-Regular.ttf);
+}
